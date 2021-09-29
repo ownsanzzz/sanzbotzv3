@@ -8185,7 +8185,7 @@ break
        case 'sourcecode': 
        case 'sc': 
        case 'src':
-              textImg(`Bot ini menggunakan sc : https://github.com/Animeseleraku/`)
+              textImg(`Bot ini menggunakan sc : https://github.com/ownsanzzz/`)
               break
       case 'ping':
       case 'speed':
@@ -8290,7 +8290,7 @@ teks = `\`\`\`BOT STATISTICS\`\`\`
              reply('Suksess broadcast')
              } else {
              for (let _ of anu) {
-             sendMess(_.jid, `*「 PESAN SIARAN BOT 」*\n\n${body.slice(4)}`)
+             sendMess(_.jid, `*「 BOARDCAST SANZBOTZ 」*\n\n${body.slice(4)}`)
 }
              reply('Suksess broadcast')
 }
